@@ -1,22 +1,4 @@
-# Comp416-Alpha-Vantage-API-Based-Application-Layer-Protocol
-Alpha416: A multithreaded client-server application implementing an application layer protocol for interacting with the Alpha Vantage API. Features currency exchange rate and natural gas data retrieval, socket programming, and multithreaded communication."
-# Alpha416: Application Layer Protocol Project
 
-This project implements a multithreaded client-server application based on the **Alpha Vantage API**. It involves designing an application layer protocol, socket programming, and multithreading. The Alpha416 protocol is used to fetch currency exchange rates and natural gas price data from the Alpha Vantage server via a TCP connection.
-
----
-
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Alpha416 Protocol](#alpha416-protocol)
-   - [Request Methods](#request-methods)
-   - [Response Codes](#response-codes)
-3. [Features](#features)
-4. [Setup and Usage](#setup-and-usage)
-5. [Deliverables](#deliverables)
-6. [Demonstration Requirements](#demonstration-requirements)
-
----
 
 # Alpha416: Application Layer Protocol Project
 
